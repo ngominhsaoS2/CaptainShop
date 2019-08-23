@@ -1,0 +1,7 @@
+﻿Liệt kê các lỗi hiện thời của chương trình
+1. Khi insert hoặc update Product thì CreatedDate đang bị sai: A. Done.
+2. Chưa phân quyền menu bên trái: A. Done.
+3. Vào Role -> phân quyền cho Role, đôi lúc các dấu tích load lên không đúng: 
+4. Kéo thả ProductCategory đang bị sai: 
+5. Chưa sort by, change pageSize (bài 46): A. Done.
+6. Insert Bill không có BillDetail nhưng vẫn insert được: 
